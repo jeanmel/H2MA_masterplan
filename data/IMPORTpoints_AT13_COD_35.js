@@ -1,0 +1,1 @@
+var json_IMPORTpoints_AT13_COD_35 = {"type":"FeatureCollection","name":"IMPORTpoints_AT13_COD_35","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
